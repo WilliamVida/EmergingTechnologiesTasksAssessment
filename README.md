@@ -5,11 +5,10 @@ This repository contains solutions to the Task 2020 assessment for my final year
 
 ## Getting Started
 * Download and install Anaconda from https://www.anaconda.com/products/individual
-* Then in an Anaconda prompt enter
+* Enter the below in an Anaconda prompt to install Jupyter
   ```
   conda install -c conda-forge jupyterlab
   ```
-  to install Jupyter.
 
 ### Installation
 1. Clone the repo
