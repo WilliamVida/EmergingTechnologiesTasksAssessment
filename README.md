@@ -4,7 +4,7 @@
 This repository contains solutions to the Task 2020 assessment for my final year module Emerging Technologies.
 
 ## Getting Started
-* Download and install Anaconda from https://www.anaconda.com/products/individual
+* If Anaconda is not installed then install it from https://www.anaconda.com/products/individual
 * Enter the below in an Anaconda prompt to install Jupyter
   ```
   conda install -c conda-forge jupyterlab
