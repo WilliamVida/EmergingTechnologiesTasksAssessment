@@ -1,7 +1,7 @@
 # Emerging Technologies Tasks Assessment
 
 ## About the Project
-This repository contains solutions to the Task 2020 assessment for my final year module Emerging Technologies.
+These are my solutions to the Tasks 2020 assessment as part of my final year module Emerging Technologies. Authored by William Vida.
 
 ## Getting Started
 * If Anaconda is not installed then install it from https://www.anaconda.com/products/individual
